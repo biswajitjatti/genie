@@ -1,0 +1,515 @@
+[
+  {
+    "lineNum": 1,
+    "selections": [
+      {
+        "name": "Version",
+        "start": 31,
+        "end": 38,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 2,
+    "selections": [
+      {
+        "name": "Switch_Software",
+        "start": 61,
+        "end": 71,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 3,
+    "selections": [
+      {
+        "name": "Support_URL",
+        "start": 19,
+        "end": 50,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 4,
+    "selections": [
+      {
+        "name": "Copyright_Date",
+        "start": 15,
+        "end": 23,
+        "type": "",
+        "regex": "",
+        "description": ""
+      },
+      {
+        "name": "Company_Name",
+        "start": 28,
+        "end": 40,
+        "type": "",
+        "regex": "",
+        "description": ""
+      },
+      {
+        "name": "Company_Type",
+        "start": 42,
+        "end": 45,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 5,
+    "selections": [
+      {
+        "name": "Compile_Day",
+        "start": 9,
+        "end": 11,
+        "type": "",
+        "regex": "",
+        "description": ""
+      },
+      {
+        "name": "Compile_Date",
+        "start": 13,
+        "end": 21,
+        "type": "",
+        "regex": "",
+        "description": ""
+      },
+      {
+        "name": "Compile_Time",
+        "start": 23,
+        "end": 27,
+        "type": "",
+        "regex": "",
+        "description": ""
+      },
+      {
+        "name": "Compile_Author",
+        "start": 32,
+        "end": 36,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 15,
+    "selections": [
+      {
+        "name": "ROM",
+        "start": 5,
+        "end": 17,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 19,
+    "selections": [
+      {
+        "name": "System_Return_Time",
+        "start": 43,
+        "end": 54,
+        "type": "",
+        "regex": "",
+        "description": ""
+      },
+      {
+        "name": "System_Return_Day",
+        "start": 56,
+        "end": 58,
+        "type": "",
+        "regex": "",
+        "description": ""
+      },
+      {
+        "name": "System_Return_Month",
+        "start": 60,
+        "end": 62,
+        "type": "",
+        "regex": "",
+        "description": ""
+      },
+      {
+        "name": "System_Return_Date",
+        "start": 64,
+        "end": 64,
+        "type": "",
+        "regex": "",
+        "description": ""
+      },
+      {
+        "name": "System_Return_Year",
+        "start": 66,
+        "end": 69,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 39,
+    "selections": [
+      {
+        "name": "Technology_Package",
+        "start": 0,
+        "end": 16,
+        "type": "",
+        "regex": "",
+        "description": ""
+      },
+      {
+        "name": "Technology_Package_Type",
+        "start": 24,
+        "end": 36,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 40,
+    "selections": [
+      {
+        "name": "Technology_Package",
+        "start": 0,
+        "end": 12,
+        "type": "",
+        "regex": "",
+        "description": ""
+      },
+      {
+        "name": "Technology_Package_Type",
+        "start": 24,
+        "end": 49,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 41,
+    "selections": [
+      {
+        "name": "AIR_License_Level",
+        "start": 19,
+        "end": 35,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 42,
+    "selections": [
+      {
+        "name": "NextReload_AIR_License_Level",
+        "start": 31,
+        "end": 47,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 43,
+    "selections": [
+      {
+        "name": "Smart_Licensing_Status",
+        "start": 24,
+        "end": 51,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 44,
+    "selections": [
+      {
+        "name": "Cisco_Processor",
+        "start": 6,
+        "end": 20,
+        "type": "",
+        "regex": "",
+        "description": ""
+      },
+      {
+        "name": "Processor_Memory_Bytes",
+        "start": 37,
+        "end": 50,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 45,
+    "selections": [
+      {
+        "name": "Processor_Board_ID",
+        "start": 19,
+        "end": 29,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 46,
+    "selections": [
+      {
+        "name": "Virtual_Ethernet_Interface_Count",
+        "start": 0,
+        "end": 0,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 47,
+    "selections": [
+      {
+        "name": "Ten_Gigabit_Ethernet_Interface_Count",
+        "start": 0,
+        "end": 1,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 48,
+    "selections": [
+      {
+        "name": "Fourty_Gigabit_Ethernet_Interface_Count",
+        "start": 0,
+        "end": 1,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 49,
+    "selections": [
+      {
+        "name": "Bytes_NonVolatile_Config_Memory",
+        "start": 0,
+        "end": 4,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 50,
+    "selections": [
+      {
+        "name": "Bytes_Physical_Memory",
+        "start": 0,
+        "end": 8,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 51,
+    "selections": [
+      {
+        "name": "Bytes_of_CrashFiles_at_crashinfo",
+        "start": 0,
+        "end": 7,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 52,
+    "selections": [
+      {
+        "name": "Bytes_of_Flash_at_flash",
+        "start": 0,
+        "end": 8,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 53,
+    "selections": [
+      {
+        "name": "Base_Ethernet_MAC_Address",
+        "start": 37,
+        "end": 53,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 54,
+    "selections": [
+      {
+        "name": "Motherboard_Assembly_Number",
+        "start": 37,
+        "end": 47,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 55,
+    "selections": [
+      {
+        "name": "Motherboard_Serial_Number",
+        "start": 37,
+        "end": 47,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 56,
+    "selections": [
+      {
+        "name": "Model_Revision_Number",
+        "start": 37,
+        "end": 38,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 57,
+    "selections": [
+      {
+        "name": "Motherboard_Revision_Number",
+        "start": 37,
+        "end": 38,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 58,
+    "selections": [
+      {
+        "name": "Model_Number",
+        "start": 37,
+        "end": 45,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 59,
+    "selections": [
+      {
+        "name": "System_Serial_Number",
+        "start": 37,
+        "end": 47,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 63,
+    "selections": [
+      {
+        "name": "Switch_Number",
+        "start": 5,
+        "end": 5,
+        "type": "",
+        "regex": "",
+        "description": ""
+      },
+      {
+        "name": "Port_Number",
+        "start": 7,
+        "end": 9,
+        "type": "",
+        "regex": "",
+        "description": ""
+      },
+      {
+        "name": "Model_ID",
+        "start": 13,
+        "end": 21,
+        "type": "",
+        "regex": "",
+        "description": ""
+      },
+      {
+        "name": "SW_Version",
+        "start": 32,
+        "end": 39,
+        "type": "",
+        "regex": "",
+        "description": ""
+      },
+      {
+        "name": "SW_Image",
+        "start": 50,
+        "end": 60,
+        "type": "",
+        "regex": "",
+        "description": ""
+      },
+      {
+        "name": "Model",
+        "start": 72,
+        "end": 78,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  }
+]

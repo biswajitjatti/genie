@@ -1,0 +1,30 @@
+Switch#sh int hu1/0/1
+HundredGigE1/0/1 is up, line protocol is up , Autostate Enabled
+  Hardware is Hundred Gigabit Ethernet, address is 00a7.4286.0da1 (bia 00a7.4286.0da1)
+  MTU 1500 bytes, BW 40000000 Kbit/sec, DLY 10 usec, 
+     reliability 255/255, txload 1/255, rxload 1/255
+  Encapsulation ARPA, loopback not set
+  Keepalive set (10 sec)
+  Full-duplex, 40Gb/s, link type is auto, media type is QSFP 40G CU3M
+  input flow-control is on, output flow-control is off
+  ARP type: ARPA, ARP Timeout 04:00:00
+  Last input 00:00:01, output 00:00:06, output hang never
+  Last clearing of "show interface" counters 02:03:09
+  Input queue: 0/2000/0/0 (size/max/drops/flushes); Total output drops: 0
+  Queueing strategy: fifo
+  Output queue: 0/40 (size/max)
+  5 minute input rate 0 bits/sec, 0 packets/sec
+  5 minute output rate 0 bits/sec, 0 packets/sec
+     5495 packets input, 1506411 bytes, 0 no buffer
+     Received 4775 broadcasts (4771 multicasts)
+     0 runts, 0 giants, 0 throttles 
+     0 input errors, 0 CRC, 0 frame, 0 overrun, 0 ignored
+     0 watchdog, 4771 multicast, 0 pause input
+     0 input packets with dribble condition detected
+     1470 packets output, 159240 bytes, 0 underruns
+     Output 291 broadcasts (449 multicasts)
+     0 output errors, 0 collisions, 4 interface resets
+     0 unknown protocol drops
+     0 babbles, 0 late collision, 0 deferred
+     0 lost carrier, 0 no carrier, 0 pause output
+     0 output buffer failures, 0 output buffers swapped out

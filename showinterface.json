@@ -1,0 +1,504 @@
+[
+  {
+    "lineNum": 2,
+    "selections": [
+      {
+        "name": "Interface_Name",
+        "start": 0,
+        "end": 4,
+        "type": "",
+        "regex": "",
+        "description": ""
+      },
+      {
+        "name": "Interface_Status",
+        "start": 9,
+        "end": 10,
+        "type": "",
+        "regex": "",
+        "description": ""
+      },
+      {
+        "name": "LineProtocol_Status",
+        "start": 30,
+        "end": 33,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 3,
+    "selections": [
+      {
+        "name": "MACAddress1",
+        "start": 39,
+        "end": 52,
+        "type": "",
+        "regex": "",
+        "description": ""
+      },
+      {
+        "name": "MACAddress2",
+        "start": 59,
+        "end": 72,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 4,
+    "selections": [
+      {
+        "name": "MTU_Size",
+        "start": 6,
+        "end": 9,
+        "type": "",
+        "regex": "",
+        "description": ""
+      },
+      {
+        "name": "Bandwidth",
+        "start": 21,
+        "end": 27,
+        "type": "",
+        "regex": "",
+        "description": ""
+      },
+      {
+        "name": "Delay",
+        "start": 7,
+        "end": 8,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 5,
+    "selections": [
+      {
+        "name": "Reliability",
+        "start": 17,
+        "end": 23,
+        "type": "",
+        "regex": "",
+        "description": ""
+      },
+      {
+        "name": "txload",
+        "start": 33,
+        "end": 37,
+        "type": "",
+        "regex": "",
+        "description": ""
+      },
+      {
+        "name": "rxload",
+        "start": 47,
+        "end": 51,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 6,
+    "selections": [
+      {
+        "name": "Encapsulation_Type",
+        "start": 16,
+        "end": 19,
+        "type": "",
+        "regex": "",
+        "description": ""
+      },
+      {
+        "name": "Loopback_Status",
+        "start": 31,
+        "end": 37,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 7,
+    "selections": [
+      {
+        "name": "Keepalive_Status",
+        "start": 12,
+        "end": 24,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 8,
+    "selections": [
+      {
+        "name": "ARP_Type",
+        "start": 12,
+        "end": 15,
+        "type": "",
+        "regex": "",
+        "description": ""
+      },
+      {
+        "name": "ARP_Timeout",
+        "start": 30,
+        "end": 37,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 9,
+    "selections": [
+      {
+        "name": "LastInput_Time",
+        "start": 13,
+        "end": 20,
+        "type": "",
+        "regex": "",
+        "description": ""
+      },
+      {
+        "name": "Output_Time",
+        "start": 30,
+        "end": 34,
+        "type": "",
+        "regex": "",
+        "description": ""
+      },
+      {
+        "name": "OutputHang_Status",
+        "start": 49,
+        "end": 53,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 11,
+    "selections": [
+      {
+        "name": "InputQueue_size_max_drops_flushes",
+        "start": 15,
+        "end": 23,
+        "type": "",
+        "regex": "",
+        "description": ""
+      },
+      {
+        "name": "Total_Output_Drops",
+        "start": 71,
+        "end": 72,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 12,
+    "selections": [
+      {
+        "name": "Queueing_Strategy",
+        "start": 21,
+        "end": 24,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 13,
+    "selections": [
+      {
+        "name": "OutputQueue_size_max",
+        "start": 16,
+        "end": 19,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 14,
+    "selections": [
+      {
+        "name": "_5_minute_input_rate_bits",
+        "start": 22,
+        "end": 22,
+        "type": "",
+        "regex": "",
+        "description": ""
+      },
+      {
+        "name": "_5_minute_input_rate_pkts",
+        "start": 34,
+        "end": 34,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 15,
+    "selections": [
+      {
+        "name": "_5_minute_output_rate_bits",
+        "start": 23,
+        "end": 23,
+        "type": "",
+        "regex": "",
+        "description": ""
+      },
+      {
+        "name": "_5_minute_output_rate_pkts",
+        "start": 35,
+        "end": 35,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 16,
+    "selections": [
+      {
+        "name": "packets_input",
+        "start": 5,
+        "end": 12,
+        "type": "",
+        "regex": "",
+        "description": ""
+      },
+      {
+        "name": "bytes_input",
+        "start": 29,
+        "end": 38,
+        "type": "",
+        "regex": "",
+        "description": ""
+      },
+      {
+        "name": "buffer_size",
+        "start": 47,
+        "end": 47,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 17,
+    "selections": [
+      {
+        "name": "broadcasts_received",
+        "start": 14,
+        "end": 14,
+        "type": "",
+        "regex": "",
+        "description": ""
+      },
+      {
+        "name": "IP_multicasts_received",
+        "start": 28,
+        "end": 28,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 18,
+    "selections": [
+      {
+        "name": "runts",
+        "start": 5,
+        "end": 5,
+        "type": "",
+        "regex": "",
+        "description": ""
+      },
+      {
+        "name": "giants",
+        "start": 14,
+        "end": 14,
+        "type": "",
+        "regex": "",
+        "description": ""
+      },
+      {
+        "name": "throttle",
+        "start": 24,
+        "end": 24,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 19,
+    "selections": [
+      {
+        "name": "input_errors",
+        "start": 5,
+        "end": 5,
+        "type": "",
+        "regex": "",
+        "description": ""
+      },
+      {
+        "name": "CRC",
+        "start": 21,
+        "end": 21,
+        "type": "",
+        "regex": "",
+        "description": ""
+      },
+      {
+        "name": "frame",
+        "start": 28,
+        "end": 28,
+        "type": "",
+        "regex": "",
+        "description": ""
+      },
+      {
+        "name": "overrun",
+        "start": 37,
+        "end": 37,
+        "type": "",
+        "regex": "",
+        "description": ""
+      },
+      {
+        "name": "ignored",
+        "start": 48,
+        "end": 48,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 20,
+    "selections": [
+      {
+        "name": "packets_output",
+        "start": 5,
+        "end": 11,
+        "type": "",
+        "regex": "",
+        "description": ""
+      },
+      {
+        "name": "bytes_output",
+        "start": 29,
+        "end": 38,
+        "type": "",
+        "regex": "",
+        "description": ""
+      },
+      {
+        "name": "underruns",
+        "start": 47,
+        "end": 48,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 21,
+    "selections": [
+      {
+        "name": "broadcasts_sent",
+        "start": 12,
+        "end": 12,
+        "type": "",
+        "regex": "",
+        "description": ""
+      },
+      {
+        "name": "IP_multicasts_sent",
+        "start": 26,
+        "end": 26,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 22,
+    "selections": [
+      {
+        "name": "output_errors",
+        "start": 5,
+        "end": 5,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 23,
+    "selections": [
+      {
+        "name": "unknown_protocol_drops",
+        "start": 5,
+        "end": 5,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "lineNum": 24,
+    "selections": [
+      {
+        "name": "output_buffer_failures",
+        "start": 5,
+        "end": 5,
+        "type": "",
+        "regex": "",
+        "description": ""
+      },
+      {
+        "name": "output_buffers_swapped_out",
+        "start": 31,
+        "end": 31,
+        "type": "",
+        "regex": "",
+        "description": ""
+      }
+    ]
+  }
+]
